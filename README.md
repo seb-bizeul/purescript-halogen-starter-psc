@@ -10,6 +10,16 @@ install npm dependencies
   yarn install
 ```
 
+get purecsript dependencies
+```
+  psc-package install
+```
+
+compile dependencies
+```
+  psc-package build
+```
+
 ## Development Server
 you can start a development server by running
 ```
